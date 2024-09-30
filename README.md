@@ -10,8 +10,6 @@ A Telegram bot that embeds QR codes into user-provided images.
 3. #requirements
 4. #installation
 5. #usage
-6. #license
-7. #contributing
 
 
 *Overview*
@@ -33,7 +31,6 @@ This bot uses the Telegram API and Python libraries (Pillow, qrcode, and python-
 - Pillow
 - qrcode
 - python-telegram-bot
-- Telegram Bot API token
 
 
 *Installation*
